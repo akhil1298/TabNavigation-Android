@@ -1,4 +1,6 @@
-package com.example.android.effectivenavigation;
+package com.akhilbatlawala.effectivenavigation;
+
+import com.example.android.effectivenavigation.R;
 
 import android.app.ActionBar;
 import android.app.FragmentTransaction;
