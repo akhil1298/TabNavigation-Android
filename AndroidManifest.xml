@@ -33,6 +33,6 @@
         </activity>
 
         <activity android:name=".CollectionDemoActivity" android:label="@string/demo_collection" />
-
+	    <activity android:name="com.example.android.effectivenavigation.SimpleTab" android:label="SimpleTab" />
     </application>
 </manifest>
